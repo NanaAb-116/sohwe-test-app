@@ -1,0 +1,13 @@
+{
+  "name": "sohwe-test-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal app for testing Sohwe deploys (Dockerfile, port 3000).",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
